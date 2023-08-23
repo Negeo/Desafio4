@@ -1,0 +1,27 @@
+.bgcolor{
+    background-color: #28a745;
+}
+.textcolor{
+    color: #28a745;
+    font-weight: bold;
+}
+
+nav img{
+    width: 5em;
+
+}
+.article-row {
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+footer{
+    padding-bottom: 2%;
+    padding-top: 1%;
+    text-align: center;
+}
+footer img{
+    width: 5em;
+}
